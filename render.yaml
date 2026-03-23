@@ -1,0 +1,36 @@
+services:
+  # Challenge 1 — Telegram RAG Chatbot
+  - type: web
+    name: supercharge-bot
+    rootDir: challenge1
+    env: docker
+    plan: free
+    envVars:
+      - key: TELEGRAM_BOT_TOKEN
+        sync: false
+      - key: WEBHOOK_URL
+        sync: false
+      - key: OPENAI_API_KEY
+        sync: false
+      - key: GOOGLE_SHEET_ID
+        sync: false
+      - key: GOOGLE_CREDS_JSON
+        sync: false
+      - key: SLACK_WEBHOOK_URL
+        sync: false
+      - key: ESCALATION_EMAIL
+        value: support@supercharge.sg
+
+  # Challenge 2 — Smart Energy Dashboard Backend
+  - type: web
+    name: supercharge-dashboard-api
+    rootDir: challenge2/backend
+    env: docker
+    plan: free
+    envVars:
+      - key: OPENAI_API_KEY
+        sync: false
+      - key: SECRET_KEY
+        sync: false
+      - key: DATABASE_URL
+        value: sqlite:///./supercharge_dashboard.db

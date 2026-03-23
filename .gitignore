@@ -8,6 +8,7 @@
 !package.json
 !package-lock.json
 !tsconfig*.json
+!vercel.json
 
 # Python
 __pycache__/
