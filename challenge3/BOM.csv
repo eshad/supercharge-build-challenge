@@ -1,0 +1,16 @@
+No,Component,Specification,Supplier (SG),Unit Cost (SGD),Quantity,Total (SGD),Role
+1,Raspberry Pi 4B (4GB),ARM Cortex-A72 1.8GHz; 4GB RAM; Wi-Fi; USB3; Gigabit Ethernet,CytronEdu / Lazada,85,1,85,Main compute — runs ArduPilot Rover for GPS navigation
+2,STM32F4 Discovery Board,STM32F407VGT6; 168MHz; 1MB Flash; 192KB RAM; 16x hardware PWM timers,Mouser / AliExpress,28,1,28,Real-time PWM capture and generation (hardware timer precision ±1µs)
+3,u-blox F9P RTK GPS Module,RTK accuracy <2cm; UART/I2C; L1+L2 dual-band; update rate 20Hz,AliExpress,180,1,180,Precise positioning for GPS waypoint mowing
+4,RPLidar A1M8,360° 2D LiDAR; 12m range; 8000 samples/sec; UART/USB; 5.5V,AliExpress / Cytron,120,1,120,Obstacle detection and avoidance
+5,MPU-9250 IMU,9-axis (gyro+accel+mag); SPI/I2C; 0.01° precision; 3.3V,AliExpress,8,1,8,Heading tracking and tilt measurement for ArduPilot AHRS
+6,74HC4053 Analog MUX IC,Triple 2-channel analog MUX/DEMUX; 5V logic compatible; DIP-16,RS Components / Mouser,2,5,10,PWM signal intercept — transparent switching between RC and autonomous signals
+7,Meanwell DRS-60-24 Buck Converter,DIN rail mount; 24V input; 5V/12V output; 60W; IP20,RS Components,45,1,45,Step down 24V grass cutter supply to 5V and 12V for compute and sensors
+8,SIM7600G 4G LTE Module,4G LTE Cat-4; GPS; UART; 12V; SIM card slot,AliExpress,55,1,55,Remote telemetry monitoring and NTRIP RTK correction delivery
+9,HC-SR04 Ultrasonic Sensor,Range: 2–400cm; 5V; GPIO trigger/echo; 40kHz,Lazada / AliExpress,3,4,12,Front and rear bump detection for obstacle E-stop
+10,SW-520D Tilt Switch,Vibration/tilt sensor; NC contact; 5V compatible,AliExpress,1,2,2,Blade stop interlock on rollover (>25° tilt triggers Engine Stop relay)
+11,DIN Rail Enclosure,200×120×75mm; IP54; polycarbonate; with DIN rail,RS Components,35,1,35,Weatherproof housing for all electronics
+12,Emergency Stop Button,Latching NC contact; 22mm panel mount; IP65; red mushroom head,RS Components,18,1,18,Physical operator E-stop — wired in series with Engine Stop circuit
+13,JST Connectors + Wiring Harness,JST-XH 2–6 pin connectors; 22AWG silicone wire; 5m roll,AliExpress,15,1,15,Signal wiring harness for all TADA B1900 terminal connections
+14,Supercapacitor Bank (Graceful Shutdown),2.7V 100F electrolytic supercap ×4 (series = 5.4V nominal),AliExpress,20,1,20,Provides ~30 seconds of 5V compute power on main power loss for clean shutdown
+,,,,,,TOTAL: $633,Well under SGD 900 target — remaining budget (~SGD 267) covers IBT-2 motor drivers / LM2596 / optocouplers / PCB / mounting hardware

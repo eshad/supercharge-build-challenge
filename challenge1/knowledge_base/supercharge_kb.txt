@@ -1,0 +1,245 @@
+==============================================================
+SUPERCHARGE SG — OFFICIAL KNOWLEDGE BASE
+Source: Candidate Knowledge Base + Build Challenge Brief 2026
+==============================================================
+
+--- SECTION 1: COMPANY OVERVIEW ---
+
+SuperCharge SG (supercharge.sg) is a Singapore-based clean energy startup and LTA-licensed Electric Vehicle Charging Operator (EVCO). We deliver end-to-end EV charging and solar PV installation services to homeowners, businesses, and industrial clients across Singapore.
+
+Mission: Make clean energy infrastructure accessible, affordable, and intelligently managed.
+
+Regulatory standing: Operate under LTA's EVCO licence framework and comply with TR25 — Singapore's technical reference standard for EV charging installations.
+
+Key partnerships:
+- ITE College East — smart energy training programmes
+- Cupra automotive showrooms — brand-matched EV charger installations
+- The Coast @ Sentosa Cove — premium residential developments
+- Commercial and industrial properties across Singapore
+
+Team: Licensed Electrical Workers (LEWs) certified for TR25 compliance, Equipment Specialists for site assessment, installation, and LTA 6-monthly inspections.
+
+--- SECTION 2: EV CHARGING PRODUCTS & SERVICES ---
+
+2.1 TR25-Compliant EV Charger Supply & Install
+- Description: Residential and commercial EV charger hardware supply and certified installation
+- Key features: LTA-compliant, LEW-certified, 6-monthly inspection support
+- Revenue model: One-time install fee + maintenance contract
+
+2.2 OCPP/OCPI Backend Platform
+- Description: Smart charger management — real-time status, alerts, remote control, session logs
+- Key features: OCPP 1.6/2.0 compliant, multi-site scalable
+- Revenue model: SaaS subscription per charger/site
+
+2.3 Smart Alerts & Notifications
+- Description: Proactive charger fault detection and push notification to operators
+- Key features: AI-powered uptime management
+- Included in SaaS tier
+
+2.4 LTA 6-Monthly Inspection Service
+- Description: Mandatory compliance inspection and certification by LEW
+- Required by LTA for all EVCO operators
+- Revenue model: Per-inspection fee (SGD 150–300 per visit)
+
+2.5 Multi-site Fleet Management
+- Description: Centralised control of chargers across multiple locations
+- Key features: OCPI-enabled for network interoperability
+- Revenue model: Enterprise SaaS licence
+
+--- SECTION 3: SOLAR PV INSTALLATION PRODUCTS & SERVICES ---
+
+3.1 All-Black Solar Panel Systems
+- Description: High-performance sleek solar panel installation for landed homes and commercial rooftops
+- Key claim: Up to 30% reduction in electricity bills
+
+3.2 PV Optimiser Integration
+- Description: Panel-level power optimisation to reduce mismatch losses and soiling impact
+- Benefit: Increases energy yield from shaded or complex rooftops
+
+3.3 SP Group Approvals & ECIS Setup
+- Description: Full paperwork management including SP Group export application and ECIS credit setup
+- Benefit: Hassle-free — client just sits back
+
+3.4 25-Year System Warranty
+- Description: Long-term panel and inverter performance warranties
+- Benefit: Tens of thousands SGD savings over system lifetime
+
+3.5 Solar + EV Bundle
+- Description: Combined solar and EV charger installation with integrated monitoring
+- Benefit: Single provider, optimised for self-consumption charging
+
+--- SECTION 4: PRICING REFERENCE ---
+
+Note: These are indicative ranges. Direct prospects to contact SuperCharge for exact quotes.
+
+EV Charger (7kW AC, Type 2): From SGD 1,200–2,500 installed (depending on cable run length and DB work required)
+EV Charger (22kW AC, 3-phase): From SGD 2,500–4,500 installed
+DC Fast Charger (50kW+): From SGD 15,000–40,000+ depending on infrastructure requirements
+Solar System (3–5kWp, landed home): From SGD 8,000–14,000 after subsidies/grants (highly variable)
+Solar System (10–30kWp, commercial): From SGD 25,000–80,000+ (project-dependent)
+EV charging cost to end user: Approximately SGD 0.50/kWh average (varies by operator and time of day)
+ECIS solar export credit: SGD 0.218/kWh (Enhanced Central Intermediary Scheme baseline — verify current rate with SP Group)
+LTA 6-monthly inspection fee: From SGD 150–300 per inspection visit (varies by site complexity)
+
+--- SECTION 5: CUSTOMER PROFILES ---
+
+Homeowner (Landed):
+- Common questions: How much does a solar system cost? How long to install? Can I export to grid?
+- Key concern: Savings-focused, wants simple payback period numbers
+
+Homeowner (HDB/Condo):
+- Common questions: Can I install EV charger in my condo carpark? Who approves this?
+- Key concern: Needs LTA/MCST process guidance
+
+Business / Commercial:
+- Needs: Multi-site charger management, invoice reports, uptime SLAs
+- Key concern: Operations and cost-efficiency focused
+
+Industrial / Facility Manager:
+- Needs: ESG reporting, energy monitoring, TR25 compliance certificates
+- Key concern: Compliance and data reporting focused
+
+Automotive / Showroom:
+- Needs: Fast charger install, customer-facing charging, brand-matched hardware
+- Key concern: Brand image and client experience
+
+Education Institution:
+- Needs: Training setups, grant eligibility, smart energy demonstrations
+- Key concern: Grants (ECCG) and educational context
+
+--- SECTION 6: SINGAPORE REGULATORY CONTEXT ---
+
+6.1 TR25 — Technical Reference for EV Charging Installations
+TR25 is Singapore's national technical standard for EV charging installations. Published by Enterprise Singapore (ESG), it defines electrical safety, equipment specifications, installation requirements, and testing procedures for all EV charging points.
+
+Key TR25 requirements:
+- All EV chargers must be installed by a Licensed Electrical Worker (LEW) certified for EV work
+- Chargers must be TR25-compliant hardware — not all chargers sold in Singapore are compliant
+- Mandatory LTA 6-monthly inspection of all EVCO-operated charging points
+- Electrical supply must meet cable sizing, protective device ratings, and earthing requirements per TR25
+- Metering and billing systems must be accurate and tamper-resistant
+- OCPP compliance required for smart charging interoperability
+- Type 2 (IEC 62196) is the standard connector for AC charging in Singapore
+- CCS2 (Combined Charging System) for DC fast charging
+
+SuperCharge handles all TR25 compliance. Customers do not need to worry about it. Our LEWs certify every installation.
+
+6.2 OCPP & OCPI — Smart Charging Protocols
+OCPP (Open Charge Point Protocol): Communication protocol between EV chargers and backend management system. SuperCharge uses OCPP 1.6 and 2.0. Enables remote start/stop, status monitoring, firmware updates, and smart charging (load management).
+
+OCPI (Open Charge Point Interface): Protocol for roaming between different charging networks. Enables a driver registered with one network to charge on another. SuperCharge's backend is OCPI-compliant for network interoperability.
+
+6.3 ECIS — Enhanced Central Intermediary Scheme (Solar Export Credits)
+ECIS is SP Group's scheme that allows solar panel owners to sell excess electricity back to the grid and receive credits on their electricity bill.
+
+Key ECIS facts:
+- Export rate: approximately SGD 0.218/kWh (baseline — check SP Group website for current rate as it changes quarterly)
+- Credits appear on the customer's SP electricity bill as a deduction
+- Requires SP Group approval before solar system is connected to grid
+- SuperCharge handles all SP Group paperwork as part of the solar installation service
+- Maximum export capacity is limited by the contracted supply capacity of the premises
+- Residential systems typically export 20–40% of total generation depending on self-consumption
+- A 5kWp system in Singapore generates approximately 550–650 kWh/month (varies with shade, orientation)
+- Annual ECIS credit for a 5kWp system: approximately SGD 1,400–1,700/year at current export rate
+
+--- SECTION 7: SINGAPORE MARKET FACTS ---
+
+7.1 Singapore EV Market
+- Singapore targets 60,000 EV charging points by 2030 (LTA national goal)
+- As of 2024, approximately 8,000–10,000 EVs registered in Singapore (growing ~30% YoY)
+- LTA's ECCG (EV Common Charger Grant) provides subsidies for condo and carpark charger installation
+- HDB carparks getting EV chargers through the HDB-LTA ECCG pilot programme
+- Average Singapore driver travels 50–60 km/day — a 7kW AC charger fully charges most EVs overnight
+- Singapore electricity tariff (2024): approximately SGD 0.32–0.36/kWh for residential users
+- Peak demand periods: 7–10 AM and 6–10 PM — smart charging should avoid these times
+- Type 2 (Mennekes) is the standard AC connector. CCS2 for DC fast charging. CHAdeMO being phased out
+- Tesla uses its own connector but sells CCS2 adapters for Singapore market
+- EV charging cost via public chargers: ~SGD 0.40–0.65/kWh depending on operator and speed
+- An EV with a 60kWh battery costs approximately SGD 19–22 to fully charge at home
+- Compared to petrol: typical ICE car costs SGD 12–18/100km. EV costs SGD 3–5/100km on electricity
+
+7.2 Singapore Solar Market
+- Singapore receives approximately 1,600–1,800 peak sun hours per year
+- Average daily irradiance: 4.5–5.2 kWh/m2/day (varies by month — lowest in Nov/Dec)
+- A 1kWp solar system generates approximately 100–120 kWh/month in Singapore
+- Panel efficiency has improved to 22–23% for premium monocrystalline panels (2024)
+- Typical landed home installs 3–8kWp. Commercial rooftops: 20–100kWp
+- Payback period for residential solar: typically 8–12 years (after CPF/grants if applicable)
+- SolarNova programme: Singapore's government initiative to install solar on HDB rooftops
+- HDB rooftops are owned by HDB — residents cannot install solar on their own flat rooftop
+- Landed homeowners need BCA approval for structural changes. SuperCharge handles this
+- EV + Solar bundle: solar self-consumption for EV charging maximises savings — avoids grid import cost
+- Degradation rate of quality panels: approximately 0.5% per year (25-year warranty standard)
+- Performance Ratio (PR) for Singapore installs: typically 0.75–0.80 (accounts for heat, inverter losses)
+
+--- SECTION 8: FREQUENTLY ASKED QUESTIONS ---
+
+Q: How long does EV charger installation take?
+A: Most residential EV charger installations are completed in 1–2 days. Commercial or multi-unit sites take 3–5 days. Site assessment and approvals typically add 1–2 weeks before installation begins.
+
+Q: Can I charge my EV overnight at home?
+A: Yes. Our home chargers are designed for safe, unattended overnight charging with built-in protection circuits. Charging overnight during off-peak hours (11 PM–7 AM) also reduces your electricity cost.
+
+Q: What is TR25 and do I need to worry about it?
+A: TR25 is Singapore's technical standard for EV charging installations. SuperCharge handles all TR25 compliance — you don't need to worry about it. Our Licensed Electrical Workers certify every installation.
+
+Q: Can I sell my solar energy back to the grid?
+A: Yes, under Singapore's Enhanced Central Intermediary Scheme (ECIS), you can export excess solar energy to the grid and receive credits on your SP electricity bill. SuperCharge handles the SP Group application for you.
+
+Q: How much does a solar system cost?
+A: Residential solar systems (3–5kWp) typically cost SGD 8,000–14,000 installed. Commercial systems vary widely. We recommend scheduling a free site assessment for an accurate quote — every roof is different.
+
+Q: How long will my solar panels last?
+A: Quality solar panels are warranted for 25 years. Panels typically degrade less than 0.5% per year. After 25 years, most panels still operate at 80–85% of their original capacity.
+
+Q: Do I need approval to install solar panels?
+A: Yes, but SuperCharge handles all approvals — including SP Group grid connection approval, any BCA structural approvals for landed homes, and LTA or Town Council requirements. You just sit back and enjoy the savings.
+
+Q: What is the difference between a 7kW and 22kW EV charger?
+A: A 7kW single-phase charger is suitable for most homes — it fully charges most EVs in 6–10 hours overnight. A 22kW three-phase charger charges 3x faster (2–3 hours) but requires a 3-phase electrical supply, which most landed homes and commercial premises have.
+
+Q: Can I install an EV charger in my HDB or condo carpark?
+A: For HDB: You can charge via the HDB-LTA ECCG pilot programme chargers being installed in public carparks. Private installation in HDB carparks is not permitted. For condos: MCST approval is required. SuperCharge can assist with the MCST application process. LTA's ECCG grant may provide subsidies for condo carpark installations.
+
+Q: What is OCPP and why does it matter?
+A: OCPP (Open Charge Point Protocol) is the international standard that allows EV chargers to communicate with management systems. SuperCharge's chargers use OCPP 1.6 and 2.0, meaning you can remotely monitor, start, stop, and manage all chargers from one platform, regardless of brand.
+
+Q: What maintenance does an EV charger need?
+A: LTA requires 6-monthly inspections for all EVCO-operated chargers. SuperCharge handles these mandatory inspections. Between inspections, our smart monitoring system proactively detects faults and sends alerts — minimising downtime.
+
+Q: What is the payback period for solar panels?
+A: For residential systems in Singapore, the typical payback period is 8–12 years after applicable grants and subsidies. With the Solar + EV bundle, self-consumption of solar energy for EV charging significantly improves the payback — potentially reducing it to 6–9 years depending on usage.
+
+Q: How do I get a quote?
+A: Contact us at supercharge.sg or message us directly. We'll arrange a free site assessment and provide a detailed quote within 2–3 business days.
+
+Q: What warranties do you offer?
+A: Solar panels: 25-year performance warranty. Inverters: 5–10 years (manufacturer warranty). EV chargers: 2–3 years hardware warranty. Installation workmanship: 1 year.
+
+--- SECTION 9: INSTALLATION PROCESS ---
+
+Solar Installation Timeline:
+1. Free site assessment (1–2 weeks before installation)
+2. SP Group grid connection application (handled by SuperCharge, 2–4 weeks approval)
+3. BCA structural approval if required (landed homes, 2–4 weeks)
+4. Panel and inverter installation (1–3 days on-site)
+5. SP Group inspection and meter installation
+6. ECIS export credit activation
+7. System handover and monitoring app setup
+
+EV Charger Installation Timeline:
+1. Site assessment and quote (1–2 business days)
+2. LTA/MCST approvals if needed (1–2 weeks)
+3. Installation by LEW-certified team (1–2 days)
+4. TR25 compliance certification
+5. OCPP backend configuration and testing
+6. Handover with app access for monitoring
+
+--- SECTION 10: CONTACT & ESCALATION ---
+
+For complex technical questions, pricing beyond indicative ranges, or urgent fault reports:
+Website: supercharge.sg
+Email: support@supercharge.sg
+The SuperCharge team will follow up within 1 business day.
+
+For immediate charger faults affecting active charging sessions, a human support agent can be reached via this chat. Just say "I need to speak to a person" or "connect me to support".

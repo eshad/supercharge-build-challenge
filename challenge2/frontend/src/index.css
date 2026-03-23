@@ -1,0 +1,40 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  @apply bg-gray-950 text-gray-100;
+  font-family: 'Inter', system-ui, -apple-system, sans-serif;
+}
+
+.card {
+  @apply bg-gray-900 border border-gray-800 rounded-xl p-5;
+}
+
+.kpi-value {
+  @apply text-3xl font-bold text-brand-teal;
+}
+
+.kpi-label {
+  @apply text-xs text-gray-400 uppercase tracking-wider mt-1;
+}
+
+.badge-critical {
+  @apply bg-red-500/20 text-red-400 border border-red-500/30 text-xs px-2 py-0.5 rounded-full;
+}
+
+.badge-warning {
+  @apply bg-yellow-500/20 text-yellow-400 border border-yellow-500/30 text-xs px-2 py-0.5 rounded-full;
+}
+
+.badge-ok {
+  @apply bg-green-500/20 text-green-400 border border-green-500/30 text-xs px-2 py-0.5 rounded-full;
+}
+
+.btn-primary {
+  @apply bg-brand-teal hover:bg-teal-400 text-gray-900 font-semibold px-4 py-2 rounded-lg transition-colors;
+}
+
+.btn-ghost {
+  @apply border border-gray-700 hover:border-brand-teal text-gray-300 hover:text-white px-4 py-2 rounded-lg transition-colors;
+}
